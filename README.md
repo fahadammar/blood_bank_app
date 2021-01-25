@@ -1,4 +1,4 @@
-# blood_bank_fyp
+# BLOOD BANK APPLICATION
 
 A new Flutter project.
 
